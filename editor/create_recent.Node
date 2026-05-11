@@ -1,3 +1,8 @@
+Timer
+AnimationPlayer
+Sprite2D
+CollisionShape2D
+Area2D
 Control
 Button
 HBoxContainer
@@ -5,11 +10,5 @@ VBoxContainer
 Label
 CanvasLayer
 TextureProgressBar
-Sprite2D
-CollisionShape2D
-Area2D
 GPUParticles2D
 Camera2D
-Timer
-AspectRatioContainer
-ProgressBar
