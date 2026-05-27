@@ -1,13 +1,2 @@
 res://main.gd
-res://main.tscn
-res://mob.tres
-res://character_body_2d.tres
-res://character_body_2d.gdshader
-res://new_shader.gdshader
-res://mob.tscn
-res://dmg_numbers.gd
-res://mob.gd
-res://blpool.gd
-res://proj.gd
-res://character_body_2d.tscn
-res://character_body_2d.gd
+res://hud.gd
