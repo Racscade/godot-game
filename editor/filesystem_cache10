@@ -1,5 +1,5 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1779675499
+::res://::1779929934
 360_F_549874832_odaIb0fUsf27oYS6qXj392f5673mRSW5.jpg::CompressedTexture2D::2150415475059033754::1778798656::1778879888::1::::<><><>0<>0<>1213275d422ee609562c580f48e62807<>res://.godot/imported/360_F_549874832_odaIb0fUsf27oYS6qXj392f5673mRSW5.jpg-c8fb4b53dff331d460402a52140852ef.ctex::
 1000_F_489114224_rNW6VL5GjJucMpXuz6XlYkhcSHPXYHa3.jpg::CompressedTexture2D::7518723646001666107::1770525467::1770525467::1::::<><><>0<>0<>3c51bf0f46ff02432adddb1bc5c671ae<>res://.godot/imported/1000_F_489114224_rNW6VL5GjJucMpXuz6XlYkhcSHPXYHa3.jpg-6d7eb8cfe4d982b823a45d191c764a49.ctex::
 area_2d.gd::GDScript::8370612528998487794::1775101541::0::1::::<>Area2D<><>0<>0<><>::
@@ -27,12 +27,12 @@ exporb.gd::GDScript::583015175923277681::1778357112::0::1::::<>Area2D<><>0<>0<><
 exporb.tscn::PackedScene::5044994271843886163::1778358429::0::1::::<><><>0<>0<><>::uid://dri11a16j7co5::::res://area_2d.gd<>uid://dgt7vgno1h8al::::res://pixil-frame-0.png
 exporb_2d.gd::GDScript::5784987647626184412::1778357148::0::1::::<>Area2D<><>0<>0<><>::
 eye-removebg-preview.png::CompressedTexture2D::8735139970202860060::1770670156::1770670156::1::::<><><>0<>0<>da4253ade57d4565d2903c677152d95a<>res://.godot/imported/eye-removebg-preview.png-5b32db796053d8a9fbf172ef72ec9a26.ctex::
-hud.gd::GDScript::1516790392969750466::1778722987::0::1::::<>CanvasLayer<><>0<>0<><>::
+hud.gd::GDScript::1516790392969750466::1779676015::0::1::::<>CanvasLayer<><>0<>0<><>::
 hud.tscn::PackedScene::3676590972361591991::1778723185::0::1::::<><><>0<>0<><>::uid://vu0k0quqyf8m::::res://hud.gd<>uid://bjyr2vh6anw0s::::res://Xolonium-Regular.ttf
 icon.svg::CompressedTexture2D::1771766854324705193::1770326037::1770326054::1::::<><><>0<>0<>6e142e2bd282999ee5ad766b11e3d47f<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 leveling.gd::GDScript::1947183522442383585::1774822726::0::1::::<>Node<><>0<>0<><>::
 lvlbar-removebg-preview.png::CompressedTexture2D::2508900543031235540::1774664206::1774664206::1::::<><><>0<>0<>f391d5f6938d54b7531b7eb2d603641f<>res://.godot/imported/lvlbar-removebg-preview.png-9050a21ecbfaaaea470d27d83e9271e7.ctex::
-main.gd::GDScript::1683293994281810438::1778803061::0::1::::<>Node<><>0<>0<><>::
+main.gd::GDScript::1683293994281810438::1779675714::0::1::::<>Node<><>0<>0<><>::
 main.tscn::PackedScene::8444050728653382519::1778880482::0::1::::<><><>0<>0<><>::uid://x8nuuyiy4xjq::::res://main.gd<>uid://ck03agroiicxi::::res://mob.tscn<>uid://bsm76fcxdf25x::::res://hud.tscn<>uid://5vxa8f2u3pmg::::res://360_F_549874832_odaIb0fUsf27oYS6qXj392f5673mRSW5.jpg<>uid://bjbgr5ft1v1kj::::res://blood-splatter_sqCWMRgQ.mp3<>uid://dmbxq0nbpoc5l::::res://character_body_2d.tscn
 mob.gd::GDScript::7564337635999031708::1778465203::0::1::::<>CharacterBody2D<><>0<>0<><>::
 mob.tres::VisualShader::2811942149858434921::1779144844::0::1::::<><><>0<>0<><>::
